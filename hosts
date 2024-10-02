@@ -1,0 +1,9 @@
+[database]
+34.172.57.55
+104.198.167.41
+
+
+
+[database:vars]
+ansible_ssh_user=oyedeji.ib@gmail.com
+ansible_ssh_private_key_file=/home/oyedeji.ib@gmail.com/private_key
